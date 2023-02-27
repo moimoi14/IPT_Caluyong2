@@ -2,14 +2,14 @@
 
 Managing README.md file
 
-# Authors
+## Authors
 
 https://github.com/moimoi14/IPT_Caluyong2.git
 
-# Sample Code
+## Sample Code
 
 printf("Hello World");
 
-# How to Install
+## How to Install
 
 download zip file or use Git clone
